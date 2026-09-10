@@ -1,0 +1,9 @@
+{
+	"id": "timestamp-entry",
+	"name": "Timestamp Entry",
+	"version": "1.0.0",
+	"minAppVersion": "1.4.0",
+	"description": "Start a new timestamped log entry on a fresh line, one blank line below the previous content.",
+	"author": "Jimmy Zhang",
+	"isDesktopOnly": false
+}
