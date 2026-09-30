@@ -1,2 +1,8 @@
 node_modules/
 .DS_Store
+
+# Local development: the path this plugin installs into.
+.dev-vault
+
+# Plugin state, written by Obsidian at runtime.
+data.json
